@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2a2507c-3b99-4d23-8948-cd89d9160cef": {
+      "ProjectGuid": "c2a2507c-3b99-4d23-8948-cd89d9160cef",
+      "DisplayName": "Mapalyzer WoT",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

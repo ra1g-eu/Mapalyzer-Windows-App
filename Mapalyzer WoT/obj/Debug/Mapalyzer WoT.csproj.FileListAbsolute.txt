@@ -1,0 +1,24 @@
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\Mapalyzer WoT.exe.config
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\Mapalyzer WoT.exe
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\Mapalyzer WoT.pdb
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Buffers.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Memory.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Resources.Extensions.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Buffers.xml
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Memory.xml
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Resources.Extensions.xml
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.csproj.SuggestedBindingRedirects.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.exe.config
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer_WoT.Form1.resources
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer_WoT.Properties.Resources.resources
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.csproj.GenerateResource.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.csproj.CoreCompileInputs.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.csproj.CopyComplete
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.exe
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Debug\Mapalyzer WoT.pdb

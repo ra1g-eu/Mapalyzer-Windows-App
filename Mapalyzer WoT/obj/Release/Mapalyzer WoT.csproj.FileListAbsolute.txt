@@ -1,0 +1,10 @@
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Release\Mapalyzer WoT.exe.config
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Release\Mapalyzer WoT.exe
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\bin\Release\Mapalyzer WoT.pdb
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer WoT.csproj.SuggestedBindingRedirects.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer_WoT.Form1.resources
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer_WoT.Properties.Resources.resources
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer WoT.csproj.GenerateResource.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer WoT.csproj.CoreCompileInputs.cache
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer WoT.exe
+C:\Users\rig\source\repos\Mapalyzer WoT\Mapalyzer WoT\obj\Release\Mapalyzer WoT.pdb
